@@ -1,0 +1,31 @@
+.diagnoContainer{
+    width: 100%;
+}
+
+.diagnostic{
+    width: 80%;
+    margin: auto;
+}
+
+.diagnostic h1{
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.diagnoIMG{
+    display: grid;
+    grid-template-columns: auto auto ;
+
+}
+
+.diagnoIMG .faultImages{
+    width: 100%;
+    margin: 10px 0 30px 10px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.diagnoIMG .faultImages Link .faultIMG{
+    width: 100px;
+}
